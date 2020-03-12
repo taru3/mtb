@@ -3,4 +3,6 @@ mtb
 
 [シマノ ブレーキキャリパー BR-M466](https://bike.shimano.com/en-AU/product/component/alivio-t4000/BR-M446.html)
 
-https://bike.shimano.com/ja-JP/product/component/shimano/SM-BH59-JK-SS.html
+[ブレーキホースSM-BH59](https://bike.shimano.com/ja-JP/product/component/shimano/SM-BH59-JK-SS.html)
+
+[じょうごを使わないタイプの油圧ディスクのオイル交換](https://irodoriworld.com/archives/6180)
