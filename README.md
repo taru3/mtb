@@ -6,3 +6,5 @@
 [じょうごを使わないタイプの油圧ディスクのオイル交換](https://irodoriworld.com/archives/6180)
 
 [TEKTRO BLEED KITとSHIMANO TL-BH62。どっちがいい？](https://blog.cbnanashi.net/2019/02/7246)
+
+[油圧式ディスクブレーキ ディーラーマニュアル](https://github.com/taru3/mtb/blob/master/DM-BR0005-12-JPN.pdf)
