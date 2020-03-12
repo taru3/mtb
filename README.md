@@ -5,4 +5,4 @@
 
 [じょうごを使わないタイプの油圧ディスクのオイル交換](https://irodoriworld.com/archives/6180)
 
-[TEKTRO BLEED KITとSHIMANO TL-BH62。どっちがいい？]（https://blog.cbnanashi.net/2019/02/7246）
+[TEKTRO BLEED KITとSHIMANO TL-BH62。どっちがいい？](https://blog.cbnanashi.net/2019/02/7246)
